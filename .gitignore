@@ -1,0 +1,8 @@
+# Бази даних
+db.sqlite3
+
+# Python кеш
+__pycache__/
+*.pyc
+
+venv/
